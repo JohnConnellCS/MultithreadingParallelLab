@@ -1,0 +1,1717 @@
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.139460 sec, Parallel version: 0.013904 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.303500 sec, Parallel version: 0.016484 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.925499 sec, Parallel version: 0.022187 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.030289
+[PHASE 2][2048x4096] Speedup: 18.412324
+[PHASE 2][4096x4096] Speedup: 41.713576
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.159540 sec, Parallel version: 0.014480 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.311657 sec, Parallel version: 0.016453 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.881060 sec, Parallel version: 0.022000 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 11.017926
+[PHASE 2][2048x4096] Speedup: 18.942259
+[PHASE 2][4096x4096] Speedup: 40.048539
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.159990 sec, Parallel version: 0.014731 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.381125 sec, Parallel version: 0.015849 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.931255 sec, Parallel version: 0.022458 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.860431
+[PHASE 2][2048x4096] Speedup: 24.047109
+[PHASE 2][4096x4096] Speedup: 41.465992
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.136833 sec, Parallel version: 0.014661 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.301314 sec, Parallel version: 0.015541 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.068556 sec, Parallel version: 0.024166 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.333377
+[PHASE 2][2048x4096] Speedup: 19.387917
+[PHASE 2][4096x4096] Speedup: 44.217146
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.137096 sec, Parallel version: 0.014287 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.345945 sec, Parallel version: 0.016309 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.334288 sec, Parallel version: 0.022470 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.595630
+[PHASE 2][2048x4096] Speedup: 21.211538
+[PHASE 2][4096x4096] Speedup: 59.380551
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.147383 sec, Parallel version: 0.014299 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.424147 sec, Parallel version: 0.016833 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.002632 sec, Parallel version: 0.025126 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.307282
+[PHASE 2][2048x4096] Speedup: 25.197082
+[PHASE 2][4096x4096] Speedup: 39.903717
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.137230 sec, Parallel version: 0.014442 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.548332 sec, Parallel version: 0.016803 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.883881 sec, Parallel version: 0.023167 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.502327
+[PHASE 2][2048x4096] Speedup: 32.632328
+[PHASE 2][4096x4096] Speedup: 38.153290
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.145709 sec, Parallel version: 0.013831 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.324881 sec, Parallel version: 0.020886 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.121030 sec, Parallel version: 0.024914 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.535228
+[PHASE 2][2048x4096] Speedup: 15.555108
+[PHASE 2][4096x4096] Speedup: 44.996233
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.138089 sec, Parallel version: 0.014416 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.312923 sec, Parallel version: 0.016386 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.918127 sec, Parallel version: 0.025738 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.579104
+[PHASE 2][2048x4096] Speedup: 19.096809
+[PHASE 2][4096x4096] Speedup: 35.672156
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.165848 sec, Parallel version: 0.014203 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.342802 sec, Parallel version: 0.016529 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.976147 sec, Parallel version: 0.025188 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 11.676981
+[PHASE 2][2048x4096] Speedup: 20.738805
+[PHASE 2][4096x4096] Speedup: 38.754432
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.158677 sec, Parallel version: 0.014418 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.338897 sec, Parallel version: 0.019171 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.207774 sec, Parallel version: 0.025799 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 11.005186
+[PHASE 2][2048x4096] Speedup: 17.678049
+[PHASE 2][4096x4096] Speedup: 46.815172
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.136876 sec, Parallel version: 0.014151 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.332279 sec, Parallel version: 0.016922 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.287558 sec, Parallel version: 0.042420 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.672757
+[PHASE 2][2048x4096] Speedup: 19.635851
+[PHASE 2][4096x4096] Speedup: 30.352321
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.163744 sec, Parallel version: 0.014760 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.524441 sec, Parallel version: 0.019691 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.075970 sec, Parallel version: 0.034258 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 11.093662
+[PHASE 2][2048x4096] Speedup: 26.633878
+[PHASE 2][4096x4096] Speedup: 31.408218
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.161240 sec, Parallel version: 0.014199 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.315370 sec, Parallel version: 0.016203 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.894466 sec, Parallel version: 0.028014 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 11.355622
+[PHASE 2][2048x4096] Speedup: 19.463860
+[PHASE 2][4096x4096] Speedup: 31.928795
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.136124 sec, Parallel version: 0.014001 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.309705 sec, Parallel version: 0.015503 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.852716 sec, Parallel version: 0.024551 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.722236
+[PHASE 2][2048x4096] Speedup: 19.977612
+[PHASE 2][4096x4096] Speedup: 34.732285
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.145520 sec, Parallel version: 0.014787 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.485976 sec, Parallel version: 0.017018 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.000036 sec, Parallel version: 0.023109 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.840919
+[PHASE 2][2048x4096] Speedup: 28.556541
+[PHASE 2][4096x4096] Speedup: 43.274670
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.169419 sec, Parallel version: 0.014260 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.325326 sec, Parallel version: 0.023356 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.011009 sec, Parallel version: 0.031436 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 11.880331
+[PHASE 2][2048x4096] Speedup: 13.929165
+[PHASE 2][4096x4096] Speedup: 32.160998
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.144861 sec, Parallel version: 0.014187 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.309662 sec, Parallel version: 0.016571 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.253784 sec, Parallel version: 0.037576 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.210742
+[PHASE 2][2048x4096] Speedup: 18.686574
+[PHASE 2][4096x4096] Speedup: 33.366405
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.151505 sec, Parallel version: 0.014281 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.385068 sec, Parallel version: 0.016772 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.013615 sec, Parallel version: 0.024421 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.608644
+[PHASE 2][2048x4096] Speedup: 22.958338
+[PHASE 2][4096x4096] Speedup: 41.505279
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.265990 sec, Parallel version: 0.014794 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.404489 sec, Parallel version: 0.016103 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.922452 sec, Parallel version: 0.023520 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 17.979694
+[PHASE 2][2048x4096] Speedup: 25.119463
+[PHASE 2][4096x4096] Speedup: 39.219610
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.136648 sec, Parallel version: 0.014254 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.313264 sec, Parallel version: 0.016876 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.063339 sec, Parallel version: 0.025737 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.586906
+[PHASE 2][2048x4096] Speedup: 18.562351
+[PHASE 2][4096x4096] Speedup: 41.315544
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.259855 sec, Parallel version: 0.014786 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.337220 sec, Parallel version: 0.016474 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.247519 sec, Parallel version: 0.023085 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 17.574874
+[PHASE 2][2048x4096] Speedup: 20.469617
+[PHASE 2][4096x4096] Speedup: 54.039230
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.249516 sec, Parallel version: 0.014481 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.333838 sec, Parallel version: 0.018488 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.219674 sec, Parallel version: 0.022922 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 17.230100
+[PHASE 2][2048x4096] Speedup: 18.057260
+[PHASE 2][4096x4096] Speedup: 53.210123
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.214356 sec, Parallel version: 0.014245 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.548385 sec, Parallel version: 0.017241 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.974115 sec, Parallel version: 0.023270 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 15.047947
+[PHASE 2][2048x4096] Speedup: 31.806106
+[PHASE 2][4096x4096] Speedup: 41.861744
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.140474 sec, Parallel version: 0.013769 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.322069 sec, Parallel version: 0.015516 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.241012 sec, Parallel version: 0.028419 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.202320
+[PHASE 2][2048x4096] Speedup: 20.756605
+[PHASE 2][4096x4096] Speedup: 43.668236
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.255479 sec, Parallel version: 0.013522 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.447333 sec, Parallel version: 0.016816 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.912788 sec, Parallel version: 0.022466 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 18.893407
+[PHASE 2][2048x4096] Speedup: 26.601496
+[PHASE 2][4096x4096] Speedup: 40.630170
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.143169 sec, Parallel version: 0.017393 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.323207 sec, Parallel version: 0.016576 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.202758 sec, Parallel version: 0.022773 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 8.231577
+[PHASE 2][2048x4096] Speedup: 19.498063
+[PHASE 2][4096x4096] Speedup: 52.814307
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.148541 sec, Parallel version: 0.017803 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.328511 sec, Parallel version: 0.017035 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.000405 sec, Parallel version: 0.024987 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 8.343357
+[PHASE 2][2048x4096] Speedup: 19.285012
+[PHASE 2][4096x4096] Speedup: 40.037237
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.286123 sec, Parallel version: 0.014879 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.322793 sec, Parallel version: 0.016495 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.036287 sec, Parallel version: 0.024563 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 19.229934
+[PHASE 2][2048x4096] Speedup: 19.569590
+[PHASE 2][4096x4096] Speedup: 42.189375
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.142512 sec, Parallel version: 0.014472 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.335577 sec, Parallel version: 0.016496 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.028397 sec, Parallel version: 0.021745 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.847189
+[PHASE 2][2048x4096] Speedup: 20.342976
+[PHASE 2][4096x4096] Speedup: 47.292696
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.147046 sec, Parallel version: 0.017608 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.466030 sec, Parallel version: 0.017166 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.040731 sec, Parallel version: 0.027100 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 8.351101
+[PHASE 2][2048x4096] Speedup: 27.148551
+[PHASE 2][4096x4096] Speedup: 38.404017
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.143667 sec, Parallel version: 0.014393 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.322429 sec, Parallel version: 0.016752 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.047932 sec, Parallel version: 0.022730 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.981958
+[PHASE 2][2048x4096] Speedup: 19.247657
+[PHASE 2][4096x4096] Speedup: 46.103618
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.141741 sec, Parallel version: 0.014264 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.319447 sec, Parallel version: 0.016867 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.975254 sec, Parallel version: 0.023568 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.937009
+[PHASE 2][2048x4096] Speedup: 18.939020
+[PHASE 2][4096x4096] Speedup: 41.379804
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.267467 sec, Parallel version: 0.014900 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.400928 sec, Parallel version: 0.015516 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.218621 sec, Parallel version: 0.022896 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 17.950479
+[PHASE 2][2048x4096] Speedup: 25.838921
+[PHASE 2][4096x4096] Speedup: 53.224855
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.143697 sec, Parallel version: 0.014498 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.338916 sec, Parallel version: 0.016749 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.991523 sec, Parallel version: 0.022125 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.911839
+[PHASE 2][2048x4096] Speedup: 20.235090
+[PHASE 2][4096x4096] Speedup: 44.814159
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.152746 sec, Parallel version: 0.014448 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.329048 sec, Parallel version: 0.016799 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.067158 sec, Parallel version: 0.022582 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.572029
+[PHASE 2][2048x4096] Speedup: 19.587291
+[PHASE 2][4096x4096] Speedup: 47.257157
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.143381 sec, Parallel version: 0.014299 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.340043 sec, Parallel version: 0.016829 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.059209 sec, Parallel version: 0.023320 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.027324
+[PHASE 2][2048x4096] Speedup: 20.205754
+[PHASE 2][4096x4096] Speedup: 45.419801
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.143654 sec, Parallel version: 0.053964 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.318341 sec, Parallel version: 0.019833 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.123420 sec, Parallel version: 0.023094 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 2.662058
+[PHASE 2][2048x4096] Speedup: 16.051351
+[PHASE 2][4096x4096] Speedup: 48.645200
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.138407 sec, Parallel version: 0.016779 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.303838 sec, Parallel version: 0.016887 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.906282 sec, Parallel version: 0.025610 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 8.248778
+[PHASE 2][2048x4096] Speedup: 17.992353
+[PHASE 2][4096x4096] Speedup: 35.388193
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.144441 sec, Parallel version: 0.014779 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.297373 sec, Parallel version: 0.016539 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.899768 sec, Parallel version: 0.022895 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.773459
+[PHASE 2][2048x4096] Speedup: 17.980214
+[PHASE 2][4096x4096] Speedup: 39.299509
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.141722 sec, Parallel version: 0.014456 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.331916 sec, Parallel version: 0.015512 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.883698 sec, Parallel version: 0.022828 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.803854
+[PHASE 2][2048x4096] Speedup: 21.396860
+[PHASE 2][4096x4096] Speedup: 38.711092
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.134742 sec, Parallel version: 0.014381 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.312512 sec, Parallel version: 0.015985 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.904261 sec, Parallel version: 0.023207 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.369134
+[PHASE 2][2048x4096] Speedup: 19.549944
+[PHASE 2][4096x4096] Speedup: 38.964187
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.145936 sec, Parallel version: 0.014214 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.315253 sec, Parallel version: 0.016240 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.075179 sec, Parallel version: 0.023129 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.266865
+[PHASE 2][2048x4096] Speedup: 19.411899
+[PHASE 2][4096x4096] Speedup: 46.485721
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.139959 sec, Parallel version: 0.014369 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.340433 sec, Parallel version: 0.017209 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.916913 sec, Parallel version: 0.026263 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.740190
+[PHASE 2][2048x4096] Speedup: 19.781881
+[PHASE 2][4096x4096] Speedup: 34.912408
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.135816 sec, Parallel version: 0.014273 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.318501 sec, Parallel version: 0.017096 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.330777 sec, Parallel version: 0.025483 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.515351
+[PHASE 2][2048x4096] Speedup: 18.629737
+[PHASE 2][4096x4096] Speedup: 52.221158
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.270519 sec, Parallel version: 0.014006 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.437331 sec, Parallel version: 0.015714 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.919454 sec, Parallel version: 0.023265 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 19.314660
+[PHASE 2][2048x4096] Speedup: 27.831157
+[PHASE 2][4096x4096] Speedup: 39.520278
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.140872 sec, Parallel version: 0.013397 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.302662 sec, Parallel version: 0.016110 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.863278 sec, Parallel version: 0.028132 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.515243
+[PHASE 2][2048x4096] Speedup: 18.787224
+[PHASE 2][4096x4096] Speedup: 30.687099
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.136666 sec, Parallel version: 0.014161 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.317540 sec, Parallel version: 0.016339 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.894192 sec, Parallel version: 0.022128 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.650681
+[PHASE 2][2048x4096] Speedup: 19.434974
+[PHASE 2][4096x4096] Speedup: 40.409973
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.137494 sec, Parallel version: 0.014404 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.307871 sec, Parallel version: 0.016717 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.871407 sec, Parallel version: 0.024810 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.545638
+[PHASE 2][2048x4096] Speedup: 18.417180
+[PHASE 2][4096x4096] Speedup: 35.123867
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.137190 sec, Parallel version: 0.014684 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.298953 sec, Parallel version: 0.014560 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.864563 sec, Parallel version: 0.023731 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.342931
+[PHASE 2][2048x4096] Speedup: 20.532604
+[PHASE 2][4096x4096] Speedup: 36.431674
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.138407 sec, Parallel version: 0.014122 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.308962 sec, Parallel version: 0.015243 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.878750 sec, Parallel version: 0.027462 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.800851
+[PHASE 2][2048x4096] Speedup: 20.268961
+[PHASE 2][4096x4096] Speedup: 31.999007
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.138927 sec, Parallel version: 0.013424 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.308341 sec, Parallel version: 0.016552 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.883966 sec, Parallel version: 0.022371 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.349139
+[PHASE 2][2048x4096] Speedup: 18.628280
+[PHASE 2][4096x4096] Speedup: 39.513218
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.142037 sec, Parallel version: 0.014045 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.299001 sec, Parallel version: 0.016273 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.904927 sec, Parallel version: 0.023018 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.113265
+[PHASE 2][2048x4096] Speedup: 18.373998
+[PHASE 2][4096x4096] Speedup: 39.313950
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.146298 sec, Parallel version: 0.014533 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.305421 sec, Parallel version: 0.015189 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.875115 sec, Parallel version: 0.022230 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.066719
+[PHASE 2][2048x4096] Speedup: 20.107602
+[PHASE 2][4096x4096] Speedup: 39.367055
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.144209 sec, Parallel version: 0.026506 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.323089 sec, Parallel version: 0.016931 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.076589 sec, Parallel version: 0.023101 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 5.440660
+[PHASE 2][2048x4096] Speedup: 19.082911
+[PHASE 2][4096x4096] Speedup: 46.603115
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.140122 sec, Parallel version: 0.014051 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.319728 sec, Parallel version: 0.017281 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.200591 sec, Parallel version: 0.022189 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.972624
+[PHASE 2][2048x4096] Speedup: 18.501979
+[PHASE 2][4096x4096] Speedup: 54.107077
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.139001 sec, Parallel version: 0.014803 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.391447 sec, Parallel version: 0.015779 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.996594 sec, Parallel version: 0.025066 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.389973
+[PHASE 2][2048x4096] Speedup: 24.807947
+[PHASE 2][4096x4096] Speedup: 39.758755
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.149575 sec, Parallel version: 0.014636 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.332268 sec, Parallel version: 0.017037 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.858839 sec, Parallel version: 0.028001 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.219426
+[PHASE 2][2048x4096] Speedup: 19.502788
+[PHASE 2][4096x4096] Speedup: 30.671910
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.145688 sec, Parallel version: 0.014114 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.391146 sec, Parallel version: 0.017029 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.218172 sec, Parallel version: 0.031181 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.322277
+[PHASE 2][2048x4096] Speedup: 22.970071
+[PHASE 2][4096x4096] Speedup: 39.067924
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.273550 sec, Parallel version: 0.024088 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.551400 sec, Parallel version: 0.015775 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.996466 sec, Parallel version: 0.021804 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 11.356354
+[PHASE 2][2048x4096] Speedup: 34.953159
+[PHASE 2][4096x4096] Speedup: 45.701359
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.140538 sec, Parallel version: 0.015260 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.296506 sec, Parallel version: 0.017535 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.867916 sec, Parallel version: 0.025064 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.209326
+[PHASE 2][2048x4096] Speedup: 16.909229
+[PHASE 2][4096x4096] Speedup: 34.628149
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.137065 sec, Parallel version: 0.014165 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.303124 sec, Parallel version: 0.015727 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.888696 sec, Parallel version: 0.021635 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.676258
+[PHASE 2][2048x4096] Speedup: 19.274451
+[PHASE 2][4096x4096] Speedup: 41.075967
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.136032 sec, Parallel version: 0.013932 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.315465 sec, Parallel version: 0.016580 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.170856 sec, Parallel version: 0.022122 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.763744
+[PHASE 2][2048x4096] Speedup: 19.026460
+[PHASE 2][4096x4096] Speedup: 52.926501
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.135788 sec, Parallel version: 0.014016 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.309129 sec, Parallel version: 0.016712 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.866129 sec, Parallel version: 0.022062 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.688339
+[PHASE 2][2048x4096] Speedup: 18.497724
+[PHASE 2][4096x4096] Speedup: 39.259464
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.142065 sec, Parallel version: 0.014895 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.322896 sec, Parallel version: 0.016750 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.995375 sec, Parallel version: 0.030926 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.537933
+[PHASE 2][2048x4096] Speedup: 19.277246
+[PHASE 2][4096x4096] Speedup: 32.185213
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.145934 sec, Parallel version: 0.014009 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.464222 sec, Parallel version: 0.016452 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.279377 sec, Parallel version: 0.022581 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.416951
+[PHASE 2][2048x4096] Speedup: 28.216904
+[PHASE 2][4096x4096] Speedup: 56.658123
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.147922 sec, Parallel version: 0.015429 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.482585 sec, Parallel version: 0.017004 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.328816 sec, Parallel version: 0.023952 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.587511
+[PHASE 2][2048x4096] Speedup: 28.380526
+[PHASE 2][4096x4096] Speedup: 55.479412
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.142467 sec, Parallel version: 0.014590 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.319459 sec, Parallel version: 0.016446 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.455080 sec, Parallel version: 0.023301 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.764398
+[PHASE 2][2048x4096] Speedup: 19.425159
+[PHASE 2][4096x4096] Speedup: 62.447427
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.139713 sec, Parallel version: 0.014667 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.319380 sec, Parallel version: 0.016826 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.943635 sec, Parallel version: 0.023050 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.525626
+[PHASE 2][2048x4096] Speedup: 18.981647
+[PHASE 2][4096x4096] Speedup: 40.938226
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.273476 sec, Parallel version: 0.015562 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.364642 sec, Parallel version: 0.016753 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.999114 sec, Parallel version: 0.022713 sec
+
+SUMMARY: 
+[PHASE 2][2048x2048] Speedup: 17.573633
+[PHASE 2][2048x4096] Speedup: 21.766032
+[PHASE 2][4096x4096] Speedup: 43.988297
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.141948 sec, Parallel version: 0.014425 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.318186 sec, Parallel version: 0.016485 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.084995 sec, Parallel version: 0.021439 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.840150
+[PHASE 2][2048x4096] Speedup: 19.301149
+[PHASE 2][4096x4096] Speedup: 50.608275
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.145519 sec, Parallel version: 0.015139 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.341305 sec, Parallel version: 0.016107 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.374017 sec, Parallel version: 0.031037 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.612231
+[PHASE 2][2048x4096] Speedup: 21.189780
+[PHASE 2][4096x4096] Speedup: 44.269993
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.168625 sec, Parallel version: 0.014420 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.319565 sec, Parallel version: 0.016646 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.157064 sec, Parallel version: 0.023885 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 11.693811
+[PHASE 2][2048x4096] Speedup: 19.197219
+[PHASE 2][4096x4096] Speedup: 48.442106
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.142012 sec, Parallel version: 0.015146 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.310405 sec, Parallel version: 0.016884 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.045998 sec, Parallel version: 0.031088 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.376434
+[PHASE 2][2048x4096] Speedup: 18.384052
+[PHASE 2][4096x4096] Speedup: 33.646128
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.145169 sec, Parallel version: 0.014576 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.353266 sec, Parallel version: 0.016395 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.955927 sec, Parallel version: 0.023400 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.959238
+[PHASE 2][2048x4096] Speedup: 21.547346
+[PHASE 2][4096x4096] Speedup: 40.851212
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.140757 sec, Parallel version: 0.014484 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.330967 sec, Parallel version: 0.022370 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.144212 sec, Parallel version: 0.022543 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.718257
+[PHASE 2][2048x4096] Speedup: 14.794922
+[PHASE 2][4096x4096] Speedup: 50.756964
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.146752 sec, Parallel version: 0.014787 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.369289 sec, Parallel version: 0.016706 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.971419 sec, Parallel version: 0.025549 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.924548
+[PHASE 2][2048x4096] Speedup: 22.104909
+[PHASE 2][4096x4096] Speedup: 38.021974
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.142570 sec, Parallel version: 0.014800 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.306370 sec, Parallel version: 0.016748 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.921281 sec, Parallel version: 0.028195 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.633270
+[PHASE 2][2048x4096] Speedup: 18.292552
+[PHASE 2][4096x4096] Speedup: 32.674891
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.145171 sec, Parallel version: 0.014579 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.319211 sec, Parallel version: 0.016699 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.094590 sec, Parallel version: 0.022833 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.957513
+[PHASE 2][2048x4096] Speedup: 19.115250
+[PHASE 2][4096x4096] Speedup: 47.938125
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.137644 sec, Parallel version: 0.036765 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.305379 sec, Parallel version: 0.017079 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.148223 sec, Parallel version: 0.022239 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 3.743882
+[PHASE 2][2048x4096] Speedup: 17.880605
+[PHASE 2][4096x4096] Speedup: 51.631605
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.143326 sec, Parallel version: 0.014292 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.339374 sec, Parallel version: 0.016833 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.247203 sec, Parallel version: 0.023171 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.028287
+[PHASE 2][2048x4096] Speedup: 20.160790
+[PHASE 2][4096x4096] Speedup: 53.825180
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.143974 sec, Parallel version: 0.014606 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.322973 sec, Parallel version: 0.015850 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.132422 sec, Parallel version: 0.025691 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.857491
+[PHASE 2][2048x4096] Speedup: 20.377126
+[PHASE 2][4096x4096] Speedup: 44.078129
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.150463 sec, Parallel version: 0.014312 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.318051 sec, Parallel version: 0.015584 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.905009 sec, Parallel version: 0.025165 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.513286
+[PHASE 2][2048x4096] Speedup: 20.408543
+[PHASE 2][4096x4096] Speedup: 35.963345
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.141578 sec, Parallel version: 0.014872 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.340721 sec, Parallel version: 0.017119 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.305721 sec, Parallel version: 0.025683 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.519620
+[PHASE 2][2048x4096] Speedup: 19.903567
+[PHASE 2][4096x4096] Speedup: 50.840398
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.152755 sec, Parallel version: 0.014485 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.332459 sec, Parallel version: 0.017025 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.892158 sec, Parallel version: 0.023390 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.546065
+[PHASE 2][2048x4096] Speedup: 19.527374
+[PHASE 2][4096x4096] Speedup: 38.142538
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.151146 sec, Parallel version: 0.014009 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.331490 sec, Parallel version: 0.016652 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.945689 sec, Parallel version: 0.023354 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.789451
+[PHASE 2][2048x4096] Speedup: 19.907031
+[PHASE 2][4096x4096] Speedup: 40.492876
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.154915 sec, Parallel version: 0.014615 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.354557 sec, Parallel version: 0.016393 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.990561 sec, Parallel version: 0.025927 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.599450
+[PHASE 2][2048x4096] Speedup: 21.628113
+[PHASE 2][4096x4096] Speedup: 38.205851
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.237108 sec, Parallel version: 0.025294 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.442025 sec, Parallel version: 0.019127 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.981739 sec, Parallel version: 0.026263 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.374124
+[PHASE 2][2048x4096] Speedup: 23.110548
+[PHASE 2][4096x4096] Speedup: 37.380647
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.151289 sec, Parallel version: 0.014118 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.314644 sec, Parallel version: 0.015882 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.188418 sec, Parallel version: 0.022650 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.715851
+[PHASE 2][2048x4096] Speedup: 19.810747
+[PHASE 2][4096x4096] Speedup: 52.469894
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.155176 sec, Parallel version: 0.017024 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.430412 sec, Parallel version: 0.016991 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.957389 sec, Parallel version: 0.023105 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.115010
+[PHASE 2][2048x4096] Speedup: 25.332146
+[PHASE 2][4096x4096] Speedup: 41.437325
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.141952 sec, Parallel version: 0.014954 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.311181 sec, Parallel version: 0.020006 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.126458 sec, Parallel version: 0.050695 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.492230
+[PHASE 2][2048x4096] Speedup: 15.554236
+[PHASE 2][4096x4096] Speedup: 22.220389
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.416735 sec, Parallel version: 0.076173 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.459694 sec, Parallel version: 0.014904 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 2.079713 sec, Parallel version: 0.046607 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 5.470925
+[PHASE 2][2048x4096] Speedup: 30.842624
+[PHASE 2][4096x4096] Speedup: 44.622087
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.271607 sec, Parallel version: 0.075304 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.660878 sec, Parallel version: 0.045896 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.682708 sec, Parallel version: 0.058066 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 3.606823
+[PHASE 2][2048x4096] Speedup: 14.399502
+[PHASE 2][4096x4096] Speedup: 28.979420
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.173279 sec, Parallel version: 0.065685 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.564070 sec, Parallel version: 0.065958 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.560378 sec, Parallel version: 0.082766 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 2.638018
+[PHASE 2][2048x4096] Speedup: 8.551955
+[PHASE 2][4096x4096] Speedup: 18.852780
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.261185 sec, Parallel version: 0.057754 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.677547 sec, Parallel version: 0.048935 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.875440 sec, Parallel version: 0.057935 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 4.522405
+[PHASE 2][2048x4096] Speedup: 13.845812
+[PHASE 2][4096x4096] Speedup: 32.371558
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.266382 sec, Parallel version: 0.066970 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.637263 sec, Parallel version: 0.036097 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.746120 sec, Parallel version: 0.033975 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 3.977640
+[PHASE 2][2048x4096] Speedup: 17.653936
+[PHASE 2][4096x4096] Speedup: 51.395015
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.145265 sec, Parallel version: 0.014842 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.335054 sec, Parallel version: 0.028535 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.981953 sec, Parallel version: 0.025836 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.787620
+[PHASE 2][2048x4096] Speedup: 11.741897
+[PHASE 2][4096x4096] Speedup: 38.007639
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.146362 sec, Parallel version: 0.014643 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.317771 sec, Parallel version: 0.016316 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.341977 sec, Parallel version: 0.023242 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 9.995399
+[PHASE 2][2048x4096] Speedup: 19.476168
+[PHASE 2][4096x4096] Speedup: 57.738455
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.152570 sec, Parallel version: 0.014468 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.551023 sec, Parallel version: 0.020067 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.987197 sec, Parallel version: 0.023169 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 10.545468
+[PHASE 2][2048x4096] Speedup: 27.459651
+[PHASE 2][4096x4096] Speedup: 42.609396
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.150655 sec, Parallel version: 0.017187 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.338811 sec, Parallel version: 0.016393 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 0.963365 sec, Parallel version: 0.026504 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 8.765670
+[PHASE 2][2048x4096] Speedup: 20.667880
+[PHASE 2][4096x4096] Speedup: 36.347726
+Use CTRL-C to exit if necessary.
+Make sure to take care of possible data races!
+
+--------------TEST PHASE 2---------------
+Running phase 2 on a 2048x2048 image...
+Sequential version: 0.145142 sec, Parallel version: 0.017303 sec
+
+Running phase 2 on a 2048x4096 image...
+Sequential version: 0.338898 sec, Parallel version: 0.018728 sec
+
+Running phase 2 on a 4096x4096 image...
+Sequential version: 1.085709 sec, Parallel version: 0.022795 sec
+
+SUMMARY:
+[PHASE 2][2048x2048] Speedup: 8.388132
+[PHASE 2][2048x4096] Speedup: 18.095487
+[PHASE 2][4096x4096] Speedup: 47.628232
